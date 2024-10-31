@@ -1,0 +1,4 @@
+Country,VAT in %,Payout in %,Surcharge Fee Description,Version
+AT,20,80,Transportgebühr,VAT inc.
+DE,19,70,Transaction Fee,VAT excl. CCM
+IT,22,70,Transaction Fee,VAT excl. REV

@@ -1,0 +1,17 @@
+[en]
+pending_status_message = "Your payment is pending, we will update the status as soon as we receive notification from your mobile operator."
+completed_status_message = "Your payment with Onebip has been successful."
+failed_status_message = "Your payment failed. Please go to https://selfcare.onebip.com and contact support."
+cancelled_status_message = "Your order has been cancelled."
+
+[de]
+pending_status_message = "Ihre Bezahlung wir bearbeitet wir informieren Sie sobald Ihr Netzbetreiber diese bestätigt hat."
+completed_status_message = "Ihre Zahlung mit dem Handy über Ihre Mobilfunkrechnung war erfolgreich"
+failed_status_message = "Ihre Zahlung ist leider fehlgeschlagen, bitte besuchen Sie https://selfcare.onebip.com und kontaktieren Sie den Support für weitere Informationen."
+cancelled_status_message = "Ihre Zahlung wurde abgebrochen."
+
+[at]
+pending_status_message = "Ihre Bezahlung wir bearbeitet wir informieren Sie sobald Ihr Netzbetreiber diese bestätigt hat."
+completed_status_message = "Ihre Zahlung mit dem Handy über Ihre Mobilfunkrechnung war erfolgreich"
+failed_status_message = "Ihre Zahlung ist leider fehlgeschlagen, bitte besuchen Sie https://selfcare.onebip.com und kontaktieren Sie den Support für weitere Informationen."
+cancelled_status_message = "Ihre Zahlung wurde abgebrochen."
